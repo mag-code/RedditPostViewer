@@ -1,2 +1,2 @@
 # RedditPostViewer
-The goal of this program is to have a discord bot that takes in commands that display specific posts from any subreddit you asked of it. 
+I initially started this project because I was on discord a lot and I like to partake in shopping therapy. I thought if I had my own discord bot to display the newest posts from r/buildapcsales, I can be ahead of the sales. This diverged into becoming a straight up reddit reviewer bot. I thought this bot would be a lot more useful if instead of being hardcoded into seeing things from one subreddit, I can view things from all subreddits. I didn't want to use the preinstalled webhooks that discord have so I thought this would be a fun and useful project to partake in.
